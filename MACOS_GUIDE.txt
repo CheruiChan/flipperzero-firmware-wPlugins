@@ -22,7 +22,7 @@ to check if successful
 
 MAKE SURE PIP IS UP TO DATE
 $ python3 -m pip install --upgrade pip
-
+ 
 DOWNLOAD FW
 $ git clone --recursive https://github.com/RogueMaster/flipperzero-firmware-wPlugins.git
 
